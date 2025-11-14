@@ -1,1 +1,1 @@
-# -contracts
+This folder contains all contract sources used in StableVault, including the main vault contract, the flattened build for verification, and the IERC20 interface. Everything here is provided for transparency, review, and contract verification.
